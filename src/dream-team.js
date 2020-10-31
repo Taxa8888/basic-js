@@ -14,20 +14,3 @@ module.exports = function createDreamTeam(members) {
     return false;
   }
 };
-
-
-
-// let members = [
-//   'amelia',
-//   'ruby',
-//   'lily',
-//   'grace',
-//   'millie',
-//   'daisy',
-//   'freya',
-//   'erin',
-//   'megan',
-//   'jasmine',
-//   'brooke',
-// ]
-// console.log(createDreamTeam(members))
